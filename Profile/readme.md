@@ -1,2 +1,2 @@
-# CCSC Robotics Club
-Hello there! We are FTC team 19581 and FRC team 5516, "Iron Maple" from Shenzhen China. This github organization stores our robot codes for FIRST Robotics, as well as self-developed libraries and utilities used for robotics.
+# Shenzhen Robotics Alliance
+Hello there! We are Shenzhen Robotics Alliance, an open organization dedicated to spreading FIRST Robotics Competition in China, founded by Team 5516 "Iron Maple" and Team 6706 "Golem".  Here you will find FRC Robot Codes used by our team in previous years, utilities helpful to FRC programming as well as tutorials and guides.  To all schools and students who are interested in FRC, we are happy to help you get started.
